@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191505081522",
+    "project_id": "mobile-b11a4",
+    "storage_bucket": "mobile-b11a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191505081522:android:fc273661b0b4733089d5ab",
+        "android_client_info": {
+          "package_name": "com.example.time_table"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191505081522-bos27ofa7pui5h7dk9tsattvmqaegl5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeNoR7rF5MSnWOEjAxi-H0aed6Us5HDPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191505081522-bos27ofa7pui5h7dk9tsattvmqaegl5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
